@@ -1,5 +1,6 @@
 venv/
 .idea/
+medis/
 
 **/__pycache__/
 *.pyc
